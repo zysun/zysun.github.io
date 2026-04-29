@@ -1,4 +1,12 @@
+url: https://zysun.github.io
+
+title: zysun
+
+author: zysun
+
 theme: typography
+
+language: zh-cn
 
 highlight:
   enable: false # we will use the prism plugin instead
